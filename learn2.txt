@@ -1,3 +1,4 @@
 learn git 
 test dev branch
 i am lxh
+fix a bug
